@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **ShoppyJS**
 
-- 👨‍💻 All of my projects are available at [https://gaurav-1a80d.web.app/](https://gaurav-1a80d.web.app/)
+
 
 - 📫 How to reach me **sahgaurav832@gmail.com**
 
